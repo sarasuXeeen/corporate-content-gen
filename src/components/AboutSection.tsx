@@ -34,13 +34,16 @@ const AboutSection = () => (
         transition={{ duration: 0.5 }}
         className="mb-16 max-w-3xl"
       >
-        <p className="mb-2 text-sm font-semibold uppercase tracking-widest text-teal">About Us</p>
+        <p className="mb-2 text-sm font-semibold uppercase tracking-widest text-teal">About TRI</p>
         <h2 className="font-heading text-3xl font-bold text-primary md:text-5xl">
-          Built on Expertise,{" "}
-          <span className="text-teal">Driven by Trust</span>
+          Why TRI{" "}
+          <span className="text-teal">Exists</span>
         </h2>
         <p className="mt-4 text-lg text-muted-foreground">
-          Tier Resources International (TRI) is a UK-based company with offices in India and the UAE. Originally established as a specialist recruitment provider, TRI has evolved to deliver both Talent Acquisition and Business Process Outsourcing (BPO) services with commercial discipline and long-term vision.
+          Tier Resources International was established to address a consistent gap in the market: organisations undertaking complex, high-stakes initiatives that require experienced delivery capability but lack the capacity or specialist expertise to execute effectively at scale.
+        </p>
+        <p className="mt-4 text-lg text-muted-foreground">
+          TRI is a UK-headquartered company with operational presence in India and the UAE. Our leadership team brings backgrounds in programme delivery, recruitment, outsourcing, and international business operations. Strategic oversight is provided by active shareholders from complementary industries, ensuring commercial discipline and long-term accountability.
         </p>
       </motion.div>
 

@@ -2,14 +2,16 @@ import { motion } from "framer-motion";
 import { CheckCircle2 } from "lucide-react";
 
 const reasons = [
-  "UK-headquartered with genuine international delivery capability",
-  "Ethical recruitment aligned with IRIS and WHO frameworks",
-  "Single point of accountability across all services",
-  "Flexible, scalable model from project to enterprise level",
-  "Proven governance with defined KPIs and transparent reporting",
-  "Sector expertise in Construction, Healthcare, and Hospitality",
-  "Integrated recruitment and BPO under one trusted partner",
-  "Strategic shareholder oversight ensuring commercial discipline",
+  "UK-headquartered with genuine international delivery capability across three regions",
+  "Ethical recruitment aligned with IRIS and WHO Global Code of Practice",
+  "Single point of accountability — one relationship, consistent oversight",
+  "Flexible, scalable engagement model from project-level to enterprise-wide",
+  "Defined KPIs, structured reporting cycles, and transparent governance",
+  "Deep sector expertise across Construction, Healthcare, and Hospitality",
+  "Integrated recruitment and BPO delivered under one trusted partner",
+  "Active shareholder oversight ensuring commercial discipline and long-term vision",
+  "Ready-to-deploy capability reducing mobilisation lead times significantly",
+  "Experienced in regulated, complex, and cross-border delivery environments",
 ];
 
 const WhyChooseTRI = () => (

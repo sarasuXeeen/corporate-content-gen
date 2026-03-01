@@ -19,10 +19,10 @@ const ContactSection = () => (
       >
         <p className="mb-2 text-sm font-semibold uppercase tracking-widest text-teal">Get in Touch</p>
         <h2 className="font-heading text-3xl font-bold text-primary-foreground md:text-5xl">
-          Ready to Partner with TRI?
+          Discuss Your Initiative
         </h2>
         <p className="mx-auto mt-4 max-w-xl text-primary-foreground/70">
-          Contact us today to discuss your recruitment or outsourcing needs. Our team is ready to deliver.
+          Reach out to discuss your programme, capacity requirements, or delivery challenges. Our team will respond directly and without obligation.
         </p>
       </motion.div>
 
