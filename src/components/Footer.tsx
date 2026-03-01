@@ -1,8 +1,9 @@
 const quickLinks = [
+  { label: "Capabilities", href: "#capabilities" },
   { label: "About", href: "#about" },
-  { label: "Recruitment", href: "#recruitment" },
-  { label: "BPO", href: "#bpo" },
+  { label: "Services", href: "#recruitment" },
   { label: "Sectors", href: "#sectors" },
+  { label: "When to Engage", href: "#when-to-engage" },
   { label: "Contact", href: "#contact" },
 ];
 

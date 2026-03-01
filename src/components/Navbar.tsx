@@ -4,11 +4,11 @@ import { Button } from "@/components/ui/button";
 import { Sheet, SheetContent, SheetTrigger, SheetTitle } from "@/components/ui/sheet";
 
 const navLinks = [
+  { label: "Capabilities", href: "#capabilities" },
   { label: "About", href: "#about" },
-  { label: "Recruitment", href: "#recruitment" },
-  { label: "BPO", href: "#bpo" },
-  { label: "Delivery", href: "#delivery" },
+  { label: "Services", href: "#recruitment" },
   { label: "Sectors", href: "#sectors" },
+  { label: "When to Engage", href: "#when-to-engage" },
   { label: "Why TRI", href: "#why-tri" },
 ];
 
